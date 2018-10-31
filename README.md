@@ -1,4 +1,4 @@
-#The-Odin-Project - Java Script Basics 
+###The-Odin-Project - Java Script Basics 
 Javascript Project - [View in Browser](https://gt001.github.io/TheOdinProject-Rock-Paper-Scissors-UserInterface/)
 Goal: Create a User Interface for a Rock-Paper-Scissors Game
 
